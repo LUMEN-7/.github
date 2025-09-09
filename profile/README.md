@@ -48,6 +48,10 @@ Se tiver dúvidas, sugestões ou quiser colaborar com a **Lumen**, entre em cont
 <img loading="lazy" src="https://avatars.githubusercontent.com/Vitorr-AF" width=120>
 <p style="font-size:min(2vh, 36px); margin-top: 10px;">Vitor Augusto França de Oliveira - RM 555469</p>
 </a>
+<a href="https://github.com/iannyrfs" target="_blank" style="text-align: center; margin-right: 10px;">
+<img loading="lazy" src="https://avatars.githubusercontent.com/iannyrfs" width=120>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Ianny Raquel Ferreira De Souza - RM 559096</p>
+</a>
 </div>
 
 ---  
