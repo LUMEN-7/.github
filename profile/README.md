@@ -4,12 +4,12 @@ Bem-vindo ao repositório oficial da **Lumen**!
 
 
 
-## 📌 Sobre a Lumen
+# 📌 Sobre a Lumen
 A **Lumen** é uma startup focada em **inovação e tecnologia**, com o objetivo de levar a humanidade rumo às estrelas com apenas um clique.  
 
 
 
-## 🌟 Diferenciais da Lumen
+# 🌟 Diferenciais da Lumen
 
 ### ⭐ Tecnologia de Ponta
 Utilizamos tecnologias modernas para garantir **performance, escalabilidade e segurança**:  
@@ -27,13 +27,12 @@ Priorizamos **boas práticas de segurança de dados**, garantindo **integridade 
 ### ⚡ Agile
 Trabalhamos com **metodologias ágeis**, garantindo **entregas rápidas, flexíveis e de alta qualidade**.  
 
-## 💡 Contato
-Se tiver dúvidas, sugestões ou quiser colaborar com a **Lumen**, entre em contato:  
-📧 <a href="mailto:lumen.astra7@gmail.com" target="_blank"> Email </a>
+# 💡 Contato
+Se tiver dúvidas, sugestões ou quiser colaborar com a **Lumen**, aguardamos seu contato
 
 ---
 
-## 🤝 Colaboradores
+# 🤝 Colaboradores
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
