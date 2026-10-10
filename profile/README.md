@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LUMEN-7/images/main/logo.png" width="165" alt="Lumen" />
-
 # LUMEN
 
 ### Tecnologia que transforma ideias em possibilidades.
 
 **Desenvolvimento de soluções digitais com inovação, propósito e foco nas pessoas.**
 
-[**Projetos**](#projetos-em-destaque) · [**Tecnologias**](#tecnologias) · [**Nossa equipe**](#equipe) · [**Contato**](#contato)
+[**Site oficial ↗**](https://lumen-ad-astra.vercel.app/) · [**Projetos**](#projetos-em-destaque) · [**Tecnologias**](#tecnologias) · [**Nossa equipe**](#equipe) · [**Contato**](#contato)
 
 <img src="https://img.shields.io/badge/INOVAÇÃO-00142E?style=for-the-badge" alt="Inovação" />
 <img src="https://img.shields.io/badge/TECNOLOGIA-0562D2?style=for-the-badge" alt="Tecnologia" />
@@ -114,7 +112,9 @@ A Lumen é construída por pessoas com diferentes perspectivas, que compartilham
 
 Quer conhecer nossos projetos, conversar sobre tecnologia ou colaborar com a equipe?
 
-**[Entre em contato pela nossa organização no GitHub →](https://github.com/LUMEN-7)**
+**[Conheça nosso site e envie uma mensagem →](https://lumen-ad-astra.vercel.app/#contato)**
+
+[**GitHub da organização →**](https://github.com/LUMEN-7)
 
 ---
 
